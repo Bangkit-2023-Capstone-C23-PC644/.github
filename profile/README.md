@@ -2,7 +2,6 @@
 
 ## C23-PC644
 
-**Here are some ideas to get you started:**
 
 👨‍🏫**Mentors:**
 
