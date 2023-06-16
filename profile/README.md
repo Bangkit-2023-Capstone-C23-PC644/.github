@@ -3,7 +3,7 @@
 ## C23-PC644
 
 
-👨‍🏫**Mentors:**
+👨‍🏫**Advisors:**
 
 Lisyan Tamara (B23-A112) - Mentoring on 05/31/2023
 
