@@ -11,17 +11,17 @@ Rahmat Fajri (B23-A235) - Mentoring on 05/31/2023
 
 🙋‍♀️ **Members:**
 
-A312DKX4539 - Emirul Mukmin - Universitas Pertahanan Republik Indonesia - Mobile Development - Active
+A312DKX4539 - [Emirul Mukmin](https://github.com/emirulmukmin) - Universitas Pertahanan Republik Indonesia - Mobile Development - Active
 
-C125DKX4575 - Doni Febrian - UIN Syarif Hidayatullah Jakarta - Cloud Computing - Active
+C125DKX4575 - [Doni Febrian](https://www.github.com/peepeeyanto) - UIN Syarif Hidayatullah Jakarta - Cloud Computing - Active
 
-C360DSX2217 - Alvan Alfiansyah - Universitas Telkom - Cloud Computing - Active
+C360DSX2217 - [Alvan Alfiansyah](https://www.github.com/alvansoleh) - Universitas Telkom - Cloud Computing - Active
 
-M151DSX2465 - Wahyu Fatkhan Hidayatullah - Universitas Brawijaya - Machine Learning - Active
+M151DSX2465 - [Wahyu Fatkhan Hidayatullah](https://github.com/wahyufatkhan) - Universitas Brawijaya - Machine Learning - Active
 
-M295DSX1554 - Farid Abdullah Musri - Universitas Padjadjaran - Machine Learning - Active
+M295DSX1554 - [Farid Abdullah Musri](https://github.com/farid-abd) - Universitas Padjadjaran - Machine Learning - Active
 
-M013DKY4060 - Lerincia Andriani - Institut Pertanian Bogor - Machine Learning - Active
+M013DKY4060 - [Lerincia Andriani](https://github.com/Stargazerin) - Institut Pertanian Bogor - Machine Learning - Active
 
 🍿 **Backgrounder**
 
