@@ -11,17 +11,17 @@ Rahmat Fajri (B23-A235) - Mentoring on 05/31/2023
 
 🙋‍♀️ **Members:**
 
-A312DKX4539 - [Emirul Mukmin](https://github.com/emirulmukmin) - Universitas Pertahanan Republik Indonesia - Mobile Development - Active
+A312DKX4539 - [Emirul Mukmin](https://github.com/emirulmukmin) - Universitas Pertahanan Republik Indonesia - Mobile Development - Alumni
 
-C125DKX4575 - [Doni Febrian](https://www.github.com/peepeeyanto) - UIN Syarif Hidayatullah Jakarta - Cloud Computing - Active
+C125DKX4575 - [Doni Febrian](https://www.github.com/peepeeyanto) - UIN Syarif Hidayatullah Jakarta - Cloud Computing - Alumni
 
-C360DSX2217 - [Alvan Alfiansyah](https://www.github.com/alvansoleh) - Universitas Telkom - Cloud Computing - Active
+C360DSX2217 - [Alvan Alfiansyah](https://www.github.com/alvansoleh) - Universitas Telkom - Cloud Computing - Alumni
 
-M151DSX2465 - [Wahyu Fatkhan Hidayatullah](https://github.com/wahyufatkhan) - Universitas Brawijaya - Machine Learning - Active
+M151DSX2465 - [Wahyu Fatkhan Hidayatullah](https://github.com/wahyufatkhan) - Universitas Brawijaya - Machine Learning - Alumni
 
-M295DSX1554 - [Farid Abdullah Musri](https://github.com/farid-abd) - Universitas Padjadjaran - Machine Learning - Active
+M295DSX1554 - [Farid Abdullah Musri](https://github.com/farid-abd) - Universitas Padjadjaran - Machine Learning - Alumni
 
-M013DKY4060 - [Lerincia Andriani](https://github.com/Stargazerin) - Institut Pertanian Bogor - Machine Learning - Active
+M013DKY4060 - [Lerincia Andriani](https://github.com/Stargazerin) - Institut Pertanian Bogor - Machine Learning - Alumni
 
 🍿 **Backgrounder**
 
